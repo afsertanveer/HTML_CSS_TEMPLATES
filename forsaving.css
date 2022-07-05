@@ -1,0 +1,115 @@
+html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+body {
+    font-family: 'Mukta', sans-serif;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+.short {
+    color: #FE6F41;
+}
+
+h1 {
+    font-size: 65px;
+    font-weight: bold;
+    color: rgb(128, 128, 128);
+}
+
+h2 {
+    font-size: 55px;
+    font-weight: bolder;
+    margin-bottom: 0;
+    padding: 0;
+    color: rgb(128, 128, 128);
+
+}
+
+h3 {
+    font-weight: bolder;
+    margin-bottom: 0;
+    padding-bottom: 58px;
+    color: rgb(128, 128, 128);
+
+}
+
+.button-class {
+    text-decoration: none;
+    background-image: linear-gradient(orange, #ff6347);
+    padding: 15px 40px;
+    color: white;
+    border-radius: 35px;
+    font-weight: 600;
+}
+
+.flex-show {
+    display: flex;
+}
+
+.intro {
+
+    line-height: 1.2em;
+
+}
+
+.intro img {
+    height: 600px;
+    width: 600px;
+    position: relative;
+}
+
+.intro-details {
+    width: 45%;
+    padding-top: 5%;
+    padding-left: 160px;
+
+}
+
+.intro-details p {
+    font-weight: 400;
+    margin-bottom: 40px;
+    color: rgb(128, 128, 128);
+}
+
+.intro-image {
+    width: 55%;
+}
+
+.about-me {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 100%;
+
+
+}
+
+.about-me-image {
+    width: 35%;
+    padding-left: 17.5%;
+    padding-top: 40px;
+    height: 80%;
+
+}
+
+.about-me-image img {
+    height: 80%;
+}
+
+.about-me-desc {
+    width: 65%;
+    padding-right: 20%;
+    padding-left: 12%;
+    padding-top: 3%;
+}
+
+.about-me-desc p {
+    font-weight: 400;
+    margin: 0;
+    padding-bottom: 40px;
+}
